@@ -1,0 +1,2 @@
+# StudySync
+Full Frontend
